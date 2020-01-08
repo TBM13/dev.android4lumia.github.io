@@ -112,10 +112,9 @@ ________________
 </div>
 
 
-<div style="position:sticky;">
-  <div id="warningPanel" style="background-color: rgba(0, 0, 0, 0.4); width:100%; height:100%; position: absolute; left: 0px; top: 0px;">
-    <div class="downloadPanel" style="position:absolute;left:50%;top:50%;">
-      <b><h3>Warning!</h3></b>
-    </div>
+
+<div id="warningPanel" style="background-color: rgba(0, 0, 0, 0.4); width:100%; height:100%; position: fixed; left: 0px; top: 0px;">
+  <div class="downloadPanel" style="position:fixed;left:50%;top:50%;">
+    <b><h3>Warning!</h3></b>
   </div>
 </div>
