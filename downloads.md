@@ -114,8 +114,8 @@ ________________
 
 
 <div id="warningPanel" style="background-color: rgba(0, 0, 0, 0.4); width:100%; height:100%; position: fixed; left: 0px; top: 0px;">
-  <div class="downloadPanel" style="position:fixed; top:35%; left:25%; right:25%;">
-    <b><h2>WARNING!</h2></b>
+  <div class="downloadPanel" style="position:fixed; top:30%; left:20%; right:20%;">
+    <b><h3>WARNING!</h3></b>
     <h4>Please take a look to the <a href="./faq.html">FAQ</a> before doing anything.</h4>
     <h4><b>Don't</b> install this on your main phone, as some things like the <b>SIM Card</b> aren't working!</h4>
     <h4><b>Don't</b> install this if you have a <b>Samsung eMMC</b>, else your phone may <b>brick!</b></h4>
