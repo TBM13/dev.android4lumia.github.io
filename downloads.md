@@ -115,6 +115,7 @@ ________________
 
 <div id="warningPanel" style="background-color: rgba(0, 0, 0, 0.4); width:100%; height:100%; position: fixed; left: 0px; top: 0px;">
   <div class="downloadPanel" style="position:fixed;left:50%;top:50%;">
-    <b><h3>Warning!</h3></b>
+    <b><h2>Warning!</h2></b>
+    <h4>Please take a look to the <a href="./faq.html">FAQ</a> before doing anything, as some things like the SIM Card aren't working.</h4>
   </div>
 </div>
