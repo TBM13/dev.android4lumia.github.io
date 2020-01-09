@@ -119,5 +119,6 @@ ________________
     <h4>Please take a look to the <a href="./faq.html">FAQ</a> before doing anything.</h4>
     <h4><b>Don't</b> install this on your main phone, as some things like the <b>SIM Card</b> aren't working!</h4>
     <h4><b>Don't</b> install this if you have a <b>Samsung eMMC</b>, else your phone may <b>brick!</b></h4>
+    <button class="pure-material-button-text" onclick="document.getElementById("warningPanel").style.display = 'none';">Close</button>
   </div>
 </div>
