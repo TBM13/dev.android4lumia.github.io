@@ -178,10 +178,9 @@ $header-bg-color-secondary: #2196f3 !default;
     position: fixed;
     z-index: 1;
     top: 50px;
-    bottom: 0;
+    bottom: 0px;
     left: -216px;
     width: 216px;
-    height: 72px;
     transition: .3s ease-out;
     
     &.opened {
