@@ -2,16 +2,6 @@
 layout: other
 ---
 
-<div id="warningPanel" style="background-color: rgba(0, 0, 0, 0.4); width:100%; height:100%; position: fixed; left: 0px; top: 0px;">
-  <div class="downloadPanel" style="position:fixed; top:30%; left:15%; right:15%;">
-    <b><h2>WARNING!</h2></b>
-    <h4>Please take a look to the <a href="./faq.html">FAQ</a> before doing anything.</h4>
-    <h4><b>Don't</b> install this on your main phone, as some things like the <b>SIM Card</b> aren't working!</h4>
-    <h4><b>Don't</b> install this if you have a <b>Samsung eMMC</b>, else your phone may <b>brick!</b></h4>
-    <button class="pure-material-button-text" style="float: right;" onclick="document.getElementById('warningPanel').style.display='none';">Close</button>
-  </div>
-</div>
-
 ## LineageOS 14.1 ROMs
 ________________
 
@@ -119,4 +109,14 @@ ________________
   <sub>Size: 10 MB</sub><br />
   <sub>Upload date: 1/1/2019</sub>
   <a href="https://github.com/Android4Lumia/android4lumia.github.io/raw/master/files/builds/twrp/twrp-zeal-20190101.img" class="pure-material-button-text" style="float: right; bottom: 10px;">Download</a>
+</div>
+
+<div id="warningPanel" style="background-color: rgba(0, 0, 0, 0.4); width:100%; height:100%; position: fixed; left: 0px; top: 0px;">
+  <div class="downloadPanel" style="position:fixed; top:30%; left:15%; right:15%;">
+    <b><h2>WARNING!</h2></b>
+    <h4>Please take a look to the <a href="./faq.html">FAQ</a> before doing anything.</h4>
+    <h4><b>Don't</b> install this on your main phone, as some things like the <b>SIM Card</b> aren't working!</h4>
+    <h4><b>Don't</b> install this if you have a <b>Samsung eMMC</b>, else your phone may <b>brick!</b></h4>
+    <button class="pure-material-button-text" style="float: right;" onclick="document.getElementById('warningPanel').style.display='none';">Close</button>
+  </div>
 </div>
